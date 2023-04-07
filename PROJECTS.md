@@ -6,6 +6,8 @@ Real PRO   - https://play.google.com/store/apps/details?id=com.realproapp
 
 FX Helper - https://play.google.com/store/apps/details?id=com.umarkets.analyticslite&hl=en&pli=1
 
+Financial Advisors - https://play.google.com/store/apps/details?id=com.financial.advisors
+
 Online Wallet
 
 FX Quotes
